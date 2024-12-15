@@ -11,7 +11,7 @@ In a project directory:
 
 Make sure to use Git LFS to clone this repo as it contains large files.
 
-`git lfs clone https://github.com/RunnersNum40/kubric-pallets.git`
+`git lfs clone https://github.com/RunnersNum40/pallet-detection.git`
 
 ### Clone Kubric repo
 
@@ -23,7 +23,7 @@ Make sure to use Git LFS to clone this repo as it contains large files.
 
 ### Switch into project directory
 
-`cd Kubric-Pallets`
+`cd pallet-detection`
 
 ### Setup Kubric in Venv
 
