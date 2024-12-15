@@ -42,3 +42,7 @@ docker run --rm --interactive \
            kubricdockerhub/kubruntu \
           /usr/bin/python3 warehouse.py
 ```
+
+### Run Improved Yolov5 Method
+
+`cd model` and then run yolov5_improved.ipynb
